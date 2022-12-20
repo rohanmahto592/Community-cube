@@ -1,7 +1,7 @@
 # Building a community for college students
   - Interact with each other
-  - Post there doubts and get resolved
-  - Post articles,blogs,videos
+  - Post  doubts and get resolved
+  - Post articles,blogs,videos,images.
   - Get realtime notification of broadcasting messages
   - Get Job updates
   - Advance filtering options
