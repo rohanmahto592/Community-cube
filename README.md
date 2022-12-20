@@ -1,3 +1,14 @@
+# Building a community for college students
+  - Interact with each other
+  - Post there doubts and get resolved
+  - Post articles,blogs,videos
+  - Get realtime notification of broadcasting messages
+  - Get Job updates
+  - Advance filtering options
+  - user profile page with save option for all type of posts.
+  - chat support
+  - Google authentication
+
 # community-cube
 | Project | Link |
 | ------ | ------ |
@@ -5,6 +16,7 @@
 | video link | https://drive.google.com/file/d/1Y7DVKrhlsfa3AAAqu9gkdXqJQV_XVhPk/view?usp=share_link |
 
 ---
+
 ## Features
 - <code><b>One-time Google authentication (sign in/sign out)  with college Email id filter.</b></code>
 - user profile page
